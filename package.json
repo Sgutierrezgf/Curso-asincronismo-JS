@@ -1,0 +1,27 @@
+{
+  "name": "curso-asincronismo-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sgutierrezgf/Curso-asincronismo-JS.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Sebastian Gutierrez segut10@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sgutierrezgf/Curso-asincronismo-JS/issues"
+  },
+  "homepage": "https://github.com/Sgutierrezgf/Curso-asincronismo-JS#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
